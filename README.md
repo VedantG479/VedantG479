@@ -1,25 +1,10 @@
-<h1 align="center">Hello,I am Vedant Garg </h1>
+<h2 align="center">Hello,I am Vedant Garg </h2>
 
 <h4 align="center">Android Development Enthusiast | Student ITNS NSUT'26 </h4>
 
 <br/>
-<p align="center"> 
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantG479&show_icons=true&theme=aura"/>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=VedantG479&show_icons=true&theme=aura"/><span style="float : right;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VedantG479&theme=highcontrast"/></span>
 </p>
-
-<br/>
-
-<p align="center"> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VedantG479&theme=highcontrast"/>
-</p>
-
-<p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantG479&layout=compact&theme=aura"/>
-</p>
-
-<br/>
-
 
 ##  🛠Technologies and Tools
 <!-- <div align="center">  -->
@@ -29,9 +14,17 @@
  <br/>
 <!-- </div> -->
 
-## 💻 Passionate about?
+<p align="center"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantG479&layout=compact&theme=aura"/>
+</p>
+
+<br/>
+
+
+
+<!-- ## 💻 Passionate about? 
 **CODING!!**<br>**CREATING!!**<br>**EXPLORING!!**
 
 ## 📞 Contact Me
 * Email Id: gargvedant2004@gmail.com
-* LinkedIn : [Vedant Garg](https://www.linkedin.com/in/vedant-garg-784a4421b/)
+* LinkedIn : [Vedant Garg](https://www.linkedin.com/in/vedant-garg-784a4421b/) -->
